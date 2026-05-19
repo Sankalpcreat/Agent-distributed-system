@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+data/ledger/*.jsonl
+data/artifacts/*.json
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+*.log
