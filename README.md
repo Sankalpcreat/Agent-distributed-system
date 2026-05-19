@@ -1,5 +1,7 @@
 # Agent Mesh Runtime
 
+![Agent Mesh Runtime architecture](assets/agent-mesh-runtime.png)
+
 This is the first MVP for a provider-neutral distributed agent runtime.
 
 The runtime owns:
